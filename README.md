@@ -9,7 +9,7 @@
  <li>Custom photos for Livery, Illustration and Web design section</li>
  <li>Add logos for customers - if a longer text is needed, maybe use the bootstrap card selection?</li>
  <li>Add a very small extra header onto the top with social icons on it (Hide on mobile)</li>
- <li></li>
+ <li>Appropriate folder structure under /img!</li>
  <li></li>
  <li></li>
 </ul>
